@@ -4,7 +4,7 @@ Predict which telecom customers are likely to churn, then answer the business qu
 
 **Live app:** https://churn-roi-app-v2-4skxsvfpetvweqdcdpcaah.streamlit.app
 
-![App screenshot](screenshot.png)
+
 
 ---
 
